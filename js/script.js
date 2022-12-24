@@ -75,7 +75,7 @@ $(function() {
             localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
             setTimeout(function() {
-              location.href = 'https://biqle.org/video/' + (div.data('name')).replace(/\s+/, '%20');
+              location.href = 'https://dsex.to/video/' + (div.data('name')).replace(/\s+/, '%20');
             }, 50);
           }));
         }
@@ -111,7 +111,7 @@ $(function() {
           localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
           setTimeout(function() {
-            location.href = 'https://biqle.org/video/' + (div.data('name')).replace(/\s+/, '%20');
+            location.href = 'https://dsex.to/video/' + (div.data('name')).replace(/\s+/, '%20');
           }, 50);
         }));
       }
@@ -180,7 +180,7 @@ $(function() {
           localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
           setTimeout(function() {
-            location.href = 'https://biqle.org/video/' + (div.data('name')).replace(/\s+/, '%20');
+            location.href = 'https://dsex.to/video/' + (div.data('name')).replace(/\s+/, '%20');
           }, 50);
 
           return false;
@@ -221,7 +221,7 @@ $(function() {
                   localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
                   setTimeout(function() {
-                    location.href = 'https://biqle.org/video/' + (div.data('name')).replace(/\s+/, '%20');
+                    location.href = 'https://dsex.to/video/' + (div.data('name')).replace(/\s+/, '%20');
                   }, 50);
                 }));
               }
@@ -260,7 +260,7 @@ $(function() {
                   localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
                   setTimeout(function() {
-                    location.href = 'https://biqle.org/video/' + (div.data('name')).replace(/\s+/, '%20');
+                    location.href = 'https://dsex.to/video/' + (div.data('name')).replace(/\s+/, '%20');
                   }, 50);
                 }));
               }
