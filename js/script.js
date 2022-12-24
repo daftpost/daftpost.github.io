@@ -27,7 +27,7 @@ function searchDaft(form) {
     localStorage.setItem('sgts', JSON.stringify(suggestHistory));
 
     setTimeout(function() {
-      location.href = 'https://biqle.org/video/' + val.replace(/\s+/, '%20');
+      location.href = 'https://dsex.to/video/' + val.replace(/\s+/, '%20');
     }, 50);
   } else {
     input.focus();
