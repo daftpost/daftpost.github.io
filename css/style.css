@@ -58,6 +58,7 @@ div.news > p {
   font-size: 23px;
   text-align: center;
   margin: 0px;
+  padding: 10px;
 }
 
 div.news > h2 {
@@ -886,4 +887,9 @@ nav {
 .nav li:hover > ul li > a {
   display: block;
   padding: 7px 10px;
+}
+
+.hnews{
+  border-bottom: 1px solid #fff;
+  display: initial;
 }
